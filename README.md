@@ -1,6 +1,6 @@
 # Alice 3 Project
 
-A fun, interactive game that tests your **_math skills_** to escape the maze and win the game!
+A fun, interactive game that tests your **<ins>math skills</ins>** to escape the maze and win the game!
 
 [Download Alice 3](https://www.alice.org/get-alice/alice-3/)
 
