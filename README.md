@@ -13,7 +13,7 @@ After opening the game, users can begin playing immediately.
 
 ## Instructions
 1. Open game
-2. Read instructions to play game
+2. Read instructions to play game from alien
 3. Read questions, answer, read hints
 4. Get 3 answer correct and you win
 5. Get 3 answers wrong and you lose
