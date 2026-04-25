@@ -1,12 +1,12 @@
 # Alice 3 Project
 
-A fun, interactive game that tests your math skills to escape the maze and win the game!
+A fun, interactive game that tests your **_math skills_** to escape the maze and win the game!
 
-[Download Alice 3](https://www.alice.org/get-alice/alice-3/)]
+[Download Alice 3](https://www.alice.org/get-alice/alice-3/)
 
 ## Requirements
 - Alice 3 application
-- Knowledge of PEMDAS, percentages, rounding, measurements, and inequalities
+- _Knowledge of PEMDAS, percentages, rounding, measurements, and inequalities_
 
 ## Overview
 After opening the game, users can begin playing immediately.
