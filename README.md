@@ -2,7 +2,7 @@
 
 A fun, interactive game that tests your **<ins>math skills</ins>** to escape the maze and win!
 
-[![Download Alice 3](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://www.alice.org/get-alice/alice-3/)
+[Download Alice 3](https://www.alice.org/get-alice/alice-3/)
 
 ## Requirements
 - Alice 3 application
